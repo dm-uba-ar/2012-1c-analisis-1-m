@@ -1,8 +1,4 @@
-# Análisis I - Análisis Matemático I - Matemática 1 - Análisis II (C) — Primer cuatrimestre de 2012
-
-## Equipo docente
-
-- **Clases teóricas:** Gabriel Larotonda, Esteban Andruchow, Sandra Martínez, Jorge Devoto, Jorge Zilber
+# Análisis 1 M — Primer cuatrimestre de 2012
 
 ## Prácticas
 
@@ -20,11 +16,6 @@
 - [final del 14/12/2010](Final%2014-12c.pdf)
 - [final del 21/12/2010](Final%2021-12%20%28dg%29.pdf)
 - [final del 28/12/2010](Final%2028-12%20%28dg%29.pdf)
-
-## Bibliografía
-
-- Bibliografía adicional "Cálculo y Análisis"
-- Bibliografía adicional
 
 ## Página original
 
